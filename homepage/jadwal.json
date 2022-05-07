@@ -1,0 +1,38 @@
+[
+  {
+    "hari": "Senin",
+    "jadwal1": "Tahfidz",
+    "jadwal2": "Tajwid",
+    "jadwal3": "PKN"
+  },
+  {
+    "hari": "Selasa",
+    "jadwal1": "Tahfidz",
+    "jadwal2": "PAI",
+    "jadwal3": "IPS"
+  },
+  {
+    "hari": "Rabu",
+    "jadwal1": "Tahfidz",
+    "jadwal2": "IPA",
+    "jadwal3": "B.Inggris"
+  },
+  {
+    "hari": "Kamis",
+    "jadwal1": "Tahfidz",
+    "jadwal2": "MTK",
+    "jadwal3": "B.Indo"
+  },
+  {
+    "hari": "Jumat",
+    "jadwal1": "Tahfidz",
+    "jadwal2": "IPA",
+    "jadwal3": "B.Indo"
+  },
+  {
+    "hari": "Sabtu",
+    "jadwal1": "Tahfidz",
+    "jadwal2": "MTK",
+    "jadwal3": "B.Inggris"
+  }
+]
